@@ -1,0 +1,25 @@
+[project]
+name = "financial-advisory-agent"
+version = "0.1.0"
+description = "Multi-agent financial advisory system using LangChain + LangGraph"
+requires-python = ">=3.11"
+dependencies = [
+    "langchain>=1.0.0",
+    "langchain-aws>=0.2.0",
+    "langgraph>=0.4.0",
+    "langchain-community>=0.3.0",
+    "faiss-cpu>=1.8.0",
+    "tavily-python>=0.5.0",
+    "pydantic>=2.0",
+    "pydantic-settings>=2.0",
+    "python-dotenv>=1.0.0",
+    "fredapi>=0.5.0",
+    "fastapi>=0.110.0",
+    "uvicorn>=0.29.0",
+]
+
+[project.scripts]
+advise = "financial_advisory_agent.main:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,26 @@
+{
+  "name": "Richard Stavros",
+  "age": 51,
+  "risk_tolerance": "moderate",
+  "annual_income": 420000,
+  "net_worth": 3200000,
+  "current_holdings": {
+    "individual stocks": 40,
+    "real estate": 30,
+    "US index funds": 15,
+    "cash / savings": 10,
+    "private equity": 5
+  },
+  "investment_horizon_years": 15,
+  "goals": [
+    "Optimise tax liability on concentrated stock positions",
+    "Diversify away from real estate without triggering large capital gains",
+    "Fund a charitable foundation within 5 years"
+  ],
+  "concerns": [
+    "Three properties generating large taxable rental income",
+    "Single stock position is 25% of net worth — too concentrated",
+    "Recent divorce changed his estate plan — needs to restructure beneficiaries",
+    "Unsure whether to use a DAF or private foundation for philanthropy"
+  ]
+}

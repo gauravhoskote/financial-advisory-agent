@@ -1,0 +1,22 @@
+{
+  "name": "James Okafor",
+  "age": 28,
+  "risk_tolerance": "aggressive",
+  "annual_income": 95000,
+  "net_worth": 45000,
+  "current_holdings": {
+    "cash / savings": 60,
+    "crypto": 25,
+    "individual stocks": 15
+  },
+  "investment_horizon_years": 35,
+  "goals": [
+    "Build long-term wealth for early retirement by 55",
+    "Save for a house down payment within 3 years"
+  ],
+  "concerns": [
+    "Heavy crypto exposure but unsure how to diversify",
+    "No retirement accounts set up yet",
+    "Worried about starting too late"
+  ]
+}

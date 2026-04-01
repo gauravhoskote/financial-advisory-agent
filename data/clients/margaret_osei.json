@@ -1,0 +1,25 @@
+{
+  "name": "Margaret Osei",
+  "age": 67,
+  "risk_tolerance": "conservative",
+  "annual_income": 48000,
+  "net_worth": 890000,
+  "current_holdings": {
+    "bonds": 50,
+    "cash / savings": 30,
+    "US index funds": 15,
+    "annuities": 5
+  },
+  "investment_horizon_years": 20,
+  "goals": [
+    "Preserve capital and avoid large losses",
+    "Generate steady income to supplement Social Security",
+    "Leave an inheritance for two adult children"
+  ],
+  "concerns": [
+    "Inflation eroding fixed income returns",
+    "Required Minimum Distributions starting soon",
+    "Too much cash sitting idle in a low-yield savings account",
+    "Worried about healthcare costs in later years"
+  ]
+}

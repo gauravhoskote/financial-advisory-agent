@@ -1,0 +1,24 @@
+{
+  "name": "Priya Nair",
+  "age": 31,
+  "risk_tolerance": "moderate",
+  "annual_income": 130000,
+  "net_worth": 28000,
+  "current_holdings": {
+    "401k": 55,
+    "cash / savings": 35,
+    "US index funds": 10
+  },
+  "investment_horizon_years": 30,
+  "goals": [
+    "Pay off $62,000 in student loans within 5 years",
+    "Build a 6-month emergency fund",
+    "Start investing more aggressively once debt is cleared"
+  ],
+  "concerns": [
+    "Unsure whether to prioritise debt payoff vs investing given current interest rates",
+    "No HSA or Roth IRA set up yet",
+    "Feels behind peers financially despite a good income",
+    "Wants to buy a home in 4-5 years but has no down payment savings yet"
+  ]
+}

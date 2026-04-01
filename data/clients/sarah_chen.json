@@ -1,0 +1,25 @@
+{
+  "name": "Sarah Chen",
+  "age": 42,
+  "risk_tolerance": "moderate",
+  "annual_income": 185000,
+  "net_worth": 620000,
+  "current_holdings": {
+    "US index funds": 45,
+    "bonds": 15,
+    "individual stocks": 10,
+    "cash / savings": 25,
+    "crypto": 5
+  },
+  "investment_horizon_years": 20,
+  "goals": [
+    "Retire comfortably by 62",
+    "Fund two children's college education (ages 8 and 11)",
+    "Build an emergency fund covering 6 months of expenses"
+  ],
+  "concerns": [
+    "Worried about having too much in cash",
+    "Unsure whether crypto allocation is appropriate",
+    "Wants to understand tax-advantaged accounts better"
+  ]
+}

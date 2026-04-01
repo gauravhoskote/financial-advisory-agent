@@ -1,0 +1,22 @@
+Asset Allocation Strategies by Age and Risk Profile
+
+The general guideline for stock allocation is "110 minus your age" for moderate-risk investors.
+
+Conservative investors:
+- Ages 25-35: 50-60% stocks, 30-40% bonds, 10% cash
+- Ages 35-50: 40-50% stocks, 40-50% bonds, 10% cash
+- Ages 50-65: 30-40% stocks, 50-60% bonds, 10-20% cash
+
+Moderate investors:
+- Ages 25-35: 70-80% stocks, 15-25% bonds, 5% cash
+- Ages 35-50: 60-70% stocks, 25-35% bonds, 5% cash
+- Ages 50-65: 50-60% stocks, 30-40% bonds, 10% cash
+
+Aggressive investors:
+- Ages 25-35: 85-95% stocks, 5-15% bonds, 0-5% cash
+- Ages 35-50: 75-85% stocks, 15-25% bonds, 0-5% cash
+- Ages 50-65: 65-75% stocks, 20-30% bonds, 5% cash
+
+Within stocks, diversify across US large-cap, US small-cap, international developed, and emerging markets. Common split for moderate investors: 60% US, 25% international developed, 15% emerging markets.
+
+Rebalance at least annually or when allocations drift more than 5% from targets.
